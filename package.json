@@ -1,0 +1,16 @@
+{
+  "name": "weatherapi",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "parse-weather-data-script.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arna",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "require": "^0.4.4"
+  }
+}
